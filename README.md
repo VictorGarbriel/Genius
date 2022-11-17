@@ -28,9 +28,9 @@ O sistema desenvolvido é baseado na plataforma Arduino reproduz o funcionam
 
 Menu: 
  
-.[Introducao](https://github.com/VictorGarbriel/Genius/blob/main/introducao.md)
+.[Introdução](https://github.com/VictorGarbriel/Genius/blob/main/introducao.md)
 
-.[Materiais](https://github.com/VictorGarbriel/Genius/blob/main/Materiais.md)
+.[Lista de Materiais](https://github.com/VictorGarbriel/Genius/blob/main/Materiais.md)
 
 
 
