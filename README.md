@@ -23,7 +23,7 @@ Em nosso projeto vamos apresentar o “Jogo da memória” conhecido também por
 
 Esse Jogo apresenta 4 botões e 4 leds que acendem em uma sequência aleatória, com sons definidos para cada um dos leds.  O jogador devera apertar nos botões de acordo com sequência gerada pelo Arduino e para cada jogada, a sequência é acrescida de um novo item. 
 O sistema desenvolvido é baseado na plataforma Arduino reproduz o funcionamento do jogo da memória, com interações foi incluído um display para mensagens, como, quantos pontos, início ou termino. Ganha quem conseguir repetir a maior sequência possível.  
------
+
 
 Menu: 
  
