@@ -1,15 +1,8 @@
-# Genius
+# Lembra ae ?
 
 Você acha que tem uma boa memória? Que tal testar suas habilidades e até mesmo aprender a criar um projeto com Arduino? Quando terminar, veja como fazer um jogo "Genius" no Arduino! Você já conhecia este jogo? Se não, aqui está uma explicação rápida. Basicamente, o jogo consiste em memorizar uma sequência de cores que piscam aleatoriamente. A princípio, apenas uma cor pisca, mas a cada rodada, outra cor é adicionada à sequência, tornando cada vez mais difícil para o jogador acompanhar as cores. 
 
  
-
- 
-
-Título: Lembra ae? 
-
- 
-
 Nomes: 
 
 Carlos Miguel Bissoni Ribeiro 
