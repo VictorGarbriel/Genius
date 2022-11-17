@@ -27,6 +27,7 @@ Termino do github
 ---
 
 Codigo:
+´´´
 [16:09] RAQUEL DE FREITAS OLIVEIRA CARVALHO
 
 class PushButton {  public:    PushButton(byte pinBotao);    void button_loop();     bool pressed();  private:    unsigned long debounceBotao;    bool estadoBotaoAnt = HIGH;    bool apertado = false;    byte pino;
@@ -159,7 +160,7 @@ bool confere() {  bool resultado = true;
 
   return resultado;
 }
-
+´´´
 ---
 
 imagens:
