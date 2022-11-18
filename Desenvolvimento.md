@@ -1,6 +1,6 @@
 # Desenvolvimento 
 
-1ª Semana:
+## **Semana 1 - 21/10 a 28/10** 
 
 Definimos a equipe do projeto;
 
@@ -11,14 +11,17 @@ Setorizamos o que cada um iria fazer;
 Levantamos dados do tema;
 
 Agregamos conteúdo no Github.
+---
 
-2ª Semana:
+## **Semana 2- 04/11 a 11/11**
+
 
 Tentativas de fazer funcionar o projeto no Tinkercard;
 
 Parte escrita em andamento para o termino;
 
 Em conjunto, foi alterada o tema do projeto.
+---
 
 3ª Semana:
 
@@ -26,9 +29,10 @@ Termino do github
 
 ---
 
+
 Codigo:
-´´´
-[16:09] RAQUEL DE FREITAS OLIVEIRA CARVALHO
+```
+
 
 class PushButton {  public:    PushButton(byte pinBotao);    void button_loop();     bool pressed();  private:    unsigned long debounceBotao;    bool estadoBotaoAnt = HIGH;    bool apertado = false;    byte pino;
 };
@@ -160,7 +164,7 @@ bool confere() {  bool resultado = true;
 
   return resultado;
 }
-´´´
+```
 ---
 
 imagens:
