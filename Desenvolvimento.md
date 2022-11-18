@@ -172,8 +172,8 @@ bool confere() {  bool resultado = true;
 
 ### imagens:
 
-<img src="https://github.com/VictorGarbriel/Genius/blob/main/Images1.png" width="430"  height="270"/><br>
-<img src="https://github.com/VictorGarbriel/Genius/blob/main/Imagem2.png" width="430"  height="270"/><br>
-<img src="https://github.com/VictorGarbriel/Genius/blob/main/Imagem3.png" width="430"  height="270"/>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/Images/ProjetoInicial.png" width="430"  height="270"/><br>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/Images/Projeto_montado.png" width="430"  height="270"/><br>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/Images/ProjetoFinalizado.png" width="430"  height="270"/>
 
 
