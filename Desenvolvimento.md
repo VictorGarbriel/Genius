@@ -169,10 +169,8 @@ bool confere() {  bool resultado = true;
 
 imagens:
 
-<br><img src="https://github.com/VictorGarbriel/Genius/blob/main/MicrosoftTeams-image%20(1).png"width="430" height="270"/>
-
-<br><img src="https://github.com/VictorGarbriel/Genius/blob/main/MicrosoftTeams-image%20(2).png"width="430" height="270"/>
-
-<br><img src="https://github.com/VictorGarbriel/Genius/blob/main/MicrosoftTeams-image.png"width="430" height="270"/>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/images1.png" width="430"  height="270"/><br>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/imagem2.png" width="430"  height="270"/><br>
+<img src="https://github.com/VictorGarbriel/Genius/blob/main/imagem3.png" width="430"  height="270"/>
 
 
