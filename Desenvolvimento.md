@@ -26,7 +26,7 @@ Parte escrita em andamento para o termino;
 Em conjunto, foi alterada o tema do projeto.
 ---
 
-## ** 3ª Semana: **  
+## **Semana 2- 05/11 a 18/11**
 
 Termino do github
 
