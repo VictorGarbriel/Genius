@@ -32,7 +32,7 @@ Menu:
 
 .[Lista de Materiais](https://github.com/VictorGarbriel/Genius/blob/main/Materiais.md)
 
-.[Desenvolvimento](https://github.com/VictorGarbriel/Genius/blob/main/Desenvolvimento)
+.[Desenvolvimento](https://github.com/VictorGarbriel/Genius/blob/main/Desenvolvimento.md)
 
 
 
