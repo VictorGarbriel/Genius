@@ -22,7 +22,7 @@ Resumo:
 Em nosso projeto vamos apresentar o “Jogo da memória” conhecido também por “Genius”, o jogo teve grande sucesso na década de 80. Que testa as habilidades cognitivas do jogador, para ser usado como auxiliar no tratamento de distúrbio de memória, mal de Alzheimer e mesmo no aprendizagem das crianças nas escolas, para o aprimoramento das habilidades cognitivas, partindo da percepção das crianças e do referencial teórico sobre os jogos digitais e a cognição. 
 
 Esse Jogo apresenta 4 botões e 4 leds que acendem em uma sequência aleatória, com sons definidos para cada um dos leds.  O jogador devera apertar nos botões de acordo com sequência gerada pelo Arduino e para cada jogada, a sequência é acrescida de um novo item. 
-O sistema desenvolvido é baseado na plataforma Arduino reproduz o funcionamento do jogo da memória, com interações foi incluído um display para mensagens, como, quantos pontos, início ou termino. Ganha quem conseguir repetir a maior sequência possível.  
+O sistema desenvolvido é baseado na plataforma Arduino reproduz o funcionamento do jogo da memória.Ganha quem conseguir repetir a maior sequência possível.  
 
 ---
 
@@ -31,7 +31,7 @@ Menu:
  - [Introdução](https://github.com/VictorGarbriel/Genius/blob/main/introducao.md)
 
  - [Lista de Materiais](https://github.com/VictorGarbriel/Genius/blob/main/Materiais.md)
- 
+
  - [Desenvolvimento](https://github.com/VictorGarbriel/Genius/blob/main/Desenvolvimento.md)
 
 
