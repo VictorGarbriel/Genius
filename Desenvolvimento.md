@@ -11,6 +11,9 @@ Setorizamos o que cada um iria fazer;
 Levantamos dados do tema;
 
 Agregamos conteúdo no Github.
+
+
+
 ---
 
 ## **Semana 2- 04/11 a 11/11**
@@ -23,7 +26,7 @@ Parte escrita em andamento para o termino;
 Em conjunto, foi alterada o tema do projeto.
 ---
 
-3ª Semana:
+## ** 3ª Semana: **  
 
 Termino do github
 
