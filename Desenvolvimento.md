@@ -24,6 +24,10 @@ Tentativas de fazer funcionar o projeto no Tinkercard;
 Parte escrita em andamento para o termino;
 
 Em conjunto, foi alterada o tema do projeto.
+
+
+
+
 ---
 
 ## **Semana 2- 05/11 a 18/11**
